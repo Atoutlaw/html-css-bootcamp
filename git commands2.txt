@@ -1,0 +1,15 @@
+Some basic GIT commands
+
+git init	creates a repository
+
+git status	gets the current status of what we are doing
+
+git add --all	sends all of the new files to the staging area
+
+git commit	commits or saves the new files to the project
+
+git commit -m ""	commits with a comment
+	
+git log		prints a log of all of the commits to the screen
+
+git init	makes the directory a git repository by adding the .git folder
