@@ -1,0 +1,18 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+img {
+    border: 10px groove chocolate;
+}
+.dog2 {
+    border: 10px dashed chocolate;
+}
+.dog3 {
+      border: 10px dotted chocolate;
+}
+.dog4 {
+    border: 10px double chocolate;
+}
