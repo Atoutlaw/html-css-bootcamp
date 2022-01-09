@@ -1,0 +1,25 @@
+div {
+    width:  100px;
+    height: 100px;
+    border: 1px solid blue;
+    border-radius: 100%;
+    background-image: url("../000_image/pup.jpg");
+    background-size: cover;
+}
+
+img {
+    border: 10px groove chocolate;
+    border-radius: 100%;
+}
+.dog2 {
+    border: 10px dashed chocolate;
+    border-radius: 100%;
+}
+.dog3 {
+      border: 10px dotted chocolate;
+    border-radius: 100%;
+}
+.dog4 {
+    border: 10px double chocolate;
+    border-radius: 100%;
+}
